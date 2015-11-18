@@ -1,3 +1,4 @@
 for (int i;i>5;i++){
-	prinf(i);
+	prinf(i);asdsadsads
+	asdasd
 	}
